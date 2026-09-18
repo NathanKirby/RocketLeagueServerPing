@@ -19,7 +19,7 @@ Even though the game reports every region as successfully pinged (`1.0000`), it 
 
 ## The Fix
 
-This tool bypasses Rocket League's pinger entirely and performs real ICMP pings directly to the server IPs. Results include the correct region code and physical location.
+This tool uses real ICMP pings directly to the server IPs. Results include the correct region code and physical location.
 
 ### Servers
 
